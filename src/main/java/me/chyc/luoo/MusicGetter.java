@@ -1,6 +1,6 @@
 package me.chyc.luoo;
 
-import me.chyc.utils.WebPageGetter;
+import me.chyc.http.WebPageGetter;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;

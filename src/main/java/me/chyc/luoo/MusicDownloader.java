@@ -1,6 +1,6 @@
 package me.chyc.luoo;
 
-import me.chyc.utils.WebPageGetter;
+import me.chyc.http.WebPageGetter;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.Jsoup;
