@@ -1,6 +1,5 @@
-package me.chyc.luoo;
+package me.chyc.linkedin.luoo;
 
-import com.sun.tools.javac.code.Attribute;
 import org.json.JSONArray;
 import org.json.JSONObject;
 

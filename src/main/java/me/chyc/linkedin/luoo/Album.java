@@ -1,4 +1,4 @@
-package me.chyc.luoo;
+package me.chyc.linkedin.luoo;
 
 import java.util.List;
 

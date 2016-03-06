@@ -1,4 +1,4 @@
-package me.chyc.luoo;
+package me.chyc.linkedin.luoo;
 
 /**
  * Created by yicun.chen on 9/22/14.

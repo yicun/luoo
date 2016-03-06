@@ -1,6 +1,6 @@
-package me.chyc.luoo;
+package me.chyc.linkedin.luoo;
 
-import me.chyc.http.WebPageGetter;
+import me.chyc.linkedin.http.WebPageGetter;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.Jsoup;
